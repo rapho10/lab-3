@@ -1,0 +1,32 @@
+body {
+background-color: grey;
+font-family: 'Times New Roman', Times, serif, sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+color: purple;
+}
+p {
+font-size: 16px;
+line-height: 1.5;
+}
+strong {
+font-weight: bold;
+}
+em {
+font-style: italic;
+}
+ol, ul {
+padding-left: 20px;
+}
+hr {
+border: none;
+border-top: 1px solid black;
+}
+img {
+max-width: 100%;
+height: auto;
+}
+.copyright {
+font-style: italic;
+font-size: small;
+}
